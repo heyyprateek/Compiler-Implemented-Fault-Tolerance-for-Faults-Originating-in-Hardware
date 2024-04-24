@@ -13,4 +13,4 @@ Two types of errors are targeted for detection:
 1. Incorrect computation of integer or pointer values.
 2. Proper enforcement of control flow.
 
-The implementation will involve techniques to replicate code segments, compare intermediate results, and ensure consistent control flow. Additionally, static and dynamic analysis will be employed to verify the correctness of computations at runtime. The project aims to enhance system reliability in the face of soft errors, contributing to the growing field of fault-tolerant computing.
+The implementation involves techniques to replicate code segments, compare intermediate results, and ensure consistent control flow. Additionally, static and dynamic analysis has been employed to verify the correctness of computations at runtime. The project aims to enhance system reliability in the face of soft errors, contributing to the growing field of fault-tolerant computing.
